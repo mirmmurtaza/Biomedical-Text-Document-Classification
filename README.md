@@ -1,4 +1,4 @@
-# Biomedical Text Document Classification
+# Cancer Documents Classification
 
 ## Dataset
 
